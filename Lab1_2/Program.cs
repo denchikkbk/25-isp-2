@@ -20,7 +20,7 @@ try
     double T = 2 * Math.PI * Math.Sqrt(m / k);
     Console.WriteLine($"Период колебаний");
     { T: string v = "F2"; }
-    ;
+  
 
 }
 catch (Exception ex)
