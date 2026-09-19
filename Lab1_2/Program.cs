@@ -12,18 +12,18 @@
 //    Console.WriteLine(Exception.Message);
 //}*/
 
-try
-{
-    Console.Write("Введите Массу (m):");
-    double m = double.Parse(Console.ReadLine());
-    double k = 100;
-    double T = 2 * Math.PI * Math.Sqrt(m / k);
-    Console.WriteLine($"Период колебаний");
-    { T: string v = "F2"; }
-  
+//try
+//{
+//    Console.Write("Введите Массу (m):");
+//    double m = double.Parse(Console.ReadLine());
+//    double k = 100;
+//    double T = 2 * Math.PI * Math.Sqrt(m / k);
+//    Console.WriteLine($"Период колебаний");
+//    { T: string v = "F2"; }
 
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
-}
+
+//}
+//catch (Exception ex)
+//{
+//    Console.WriteLine(ex.Message);
+//}
