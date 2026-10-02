@@ -80,20 +80,20 @@
 
 //}
 
-try
-{
-    Console.Write("Введите трехзначное число:");
-    int n = int.Parse(Console.ReadLine());
-    int a = n / 100;
-    int b = n / 10 % 10;
-    int c = n % 10;
-    int s = c * 100 + b * 10 + a; 
-        Console.WriteLine(s);
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
-}
+//try
+//{
+//    Console.Write("Введите трехзначное число:");
+//    int n = int.Parse(Console.ReadLine());
+//    int a = n / 100;
+//    int b = n / 10 % 10;
+//    int c = n % 10;
+//    int s = c * 100 + b * 10 + a; 
+//        Console.WriteLine(s);
+//}
+//catch (Exception ex)
+//{
+//    Console.WriteLine(ex.Message);
+//}
 
    
 
