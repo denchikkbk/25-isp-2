@@ -7,4 +7,5 @@
   <Project Path="Lab2_2/Lab2_2.csproj" Id="6fa9684d-68a0-4092-8da9-aa1c212a4c18" />
   <Project Path="lab2_3/lab2_3.csproj" Id="7b71e2b3-20bf-416f-96af-8113b6dfe848" />
   <Project Path="lab3_1/lab3_1.csproj" Id="0fa095df-7b87-4f49-829d-7056471758d2" />
+  <Project Path="LAB3_2/LAB3_2.csproj" DisplayName="lab3_2" Id="f28d39a6-e202-4bf9-adb9-f05fd2de5853" />
 </Solution>
