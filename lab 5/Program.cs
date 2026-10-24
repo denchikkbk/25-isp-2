@@ -1,10 +1,11 @@
 ﻿try
 {
-    char[] mas = new char[15];
-    Console.WriteLine("Введите 15 символов:");
+    Console.WriteLine("Введите строку из 15 символов:");
+    string input = Console.ReadLine();
+    char[] mas = input.ToCharArray();
+
     for (int i = 0; i < mas.Length; i++)
     {
-        mas[i] = char.Parse(Console.ReadLine());
         Console.Write($"{mas[i]} ");
     }
     Console.WriteLine();
