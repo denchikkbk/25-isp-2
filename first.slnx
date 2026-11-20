@@ -5,10 +5,13 @@
   <Project Path="Lab1_2/Lab1_2.csproj" Id="04ca20c3-efba-440c-8529-4427d28f0caf" />
   <Project Path="Lab1_3/Lab1_3.csproj" Id="17844405-fd5f-4bf9-b1e9-1a9ae4b26794" />
   <Project Path="lab1_4/lab1_4.csproj" Id="53aefffe-95f6-4df3-87f7-b5eb976b6c9a" />
+  <Project Path="lab2_1/lab2_1.csproj" Id="59288cbd-12c6-4d36-bf1a-828fcdd793a9" />
   <Project Path="Lab2_2/Lab2_2.csproj" Id="6fa9684d-68a0-4092-8da9-aa1c212a4c18" />
   <Project Path="lab2_3/lab2_3.csproj" Id="7b71e2b3-20bf-416f-96af-8113b6dfe848" />
   <Project Path="lab3_1/lab3_1.csproj" Id="0fa095df-7b87-4f49-829d-7056471758d2" />
   <Project Path="LAB3_2/LAB3_2.csproj" Id="f28d39a6-e202-4bf9-adb9-f05fd2de5853" />
+  <Project Path="lab3_3/lab3_3.csproj" Id="8b9321c5-9c2b-451e-87e5-5f48804ce792" />
+  <Project Path="lab3_4/lab3_4.csproj" Id="3d02fd8c-10c1-49bc-bf45-dd5451be44aa" />
   <Project Path="lab4-1/lab4-1.csproj" Id="388a70a6-0c35-44e2-a715-34920f522d98" />
   <Project Path="lab4_2/lab4_2.csproj" Id="5bd0e26b-9841-4046-991e-d9ca879e325f" />
   <Project Path="lab5_2/lab5_2.csproj" Id="10996219-a7c9-45ee-a6ae-32e1a1307e17" />
